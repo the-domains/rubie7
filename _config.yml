@@ -1,0 +1,28 @@
+name: Rubie7
+favicon: null
+layout_spectrum: 0.1652685389854014
+typography_spectrum: 0.07870547194033861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.21952303987927735
+  lightness: 0.18188995262607932
+  saturation: 0.6415320069063455
+  rhythmicContrast: 0.6419505728408694
+purpose: []
