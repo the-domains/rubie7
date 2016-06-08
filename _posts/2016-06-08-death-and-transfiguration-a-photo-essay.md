@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-08T20:37:20.437Z'
-dateModified: '2016-06-08T20:07:16.540Z'
-title: ''
-author: []
+datePublished: '2016-06-08T20:43:45.071Z'
+dateModified: '2016-06-08T20:43:28.427Z'
+title: pavement
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-08-death-and-transfiguration-a-photo-essay.md
 authors: []
 publisher: null
@@ -17,18 +19,14 @@ url: death-and-transfiguration-a-photo-essay/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/96f8e243-bddf-479a-9188-5f3c1d0863e6.jpg)
+![pavement](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5fc4938b523f3f411628dd9f6ac15e2906d0352.jpg)
 
-# pavement
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/02479631-3661-4c49-81ef-09364ead8bdd.jpg)
+# ![fallen](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd6ed6a897ee603b62b32a0b0d32ba004a42bb0b.jpg)
 
-# fallen
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c25a3de1-edb4-4468-86f8-820bf0a17320.JPG)
+# ![spent](https://s3-us-west-2.amazonaws.com/the-grid-img/p/365b765410e5e4699634915f9ab7ad95a7980800.jpg)
 
-# spent sunflower
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f173b1-f531-41ca-8193-a1ccc29406ca.JPG)
+# ![leeked source](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c13b25857caa06b1d79e5cd555cd7e02fa073565.jpg)
 
-# leek bud
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e65b2968-8020-4876-87a1-7e81c3e16e36.JPG)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e65b2968-8020-4876-87a1-7e81c3e16e36.JPG)
 
-# lawn chairs
+#
