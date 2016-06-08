@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rubie7]]></title>
+        <description><![CDATA[Rubie7]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 08 Jun 2016 18:43:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[death & transfiguration a photo essay]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/96f8e243-bddf-479a-9188-5f3c1d0863e6.jpg">]]></description>
+            <link>undefineddeath-and-transfiguration-a-photo-essay/index.html</link>
+            <guid isPermaLink="false">0973408a-b5fc-40e4-a8fc-1a8d63afb0d8</guid>
+            <pubDate>Wed, 08 Jun 2016 18:42:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
